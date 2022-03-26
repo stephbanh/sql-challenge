@@ -1,6 +1,6 @@
 #### Context
 
-Providing queries and feedback to a hypotehtical company about its employees. 
+Providing queries and feedback to a hypotehtical company about its employees. These queries and subsequent database were made largely in the interest of the HR department.
 
 #### Data Modeling
 
