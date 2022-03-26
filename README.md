@@ -6,6 +6,8 @@ Providing queries and feedback to a hypotehtical company about its employees. Th
 
 Inspected the CSVs and sketch out an ERD of the tables. Via [http://www.quickdatabasediagrams.com].
 
+![Alt text](/relative/path/to/Schema Visual.png?raw=true)
+
 #### Data Engineering
 
 Created a table schema for each of the six CSV files. Assigned data types, primary keys, foreign keys, and other constraints.
