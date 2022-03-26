@@ -1,3 +1,7 @@
+#### Context
+
+Providing queries and feedback to a hypotehtical company about its employees. 
+
 #### Data Modeling
 
 Inspected the CSVs and sketch out an ERD of the tables. Via [http://www.quickdatabasediagrams.com].
