@@ -6,7 +6,7 @@ Providing queries and feedback to a hypotehtical company about its employees. Th
 
 Inspected the CSVs and sketch out an ERD of the tables. Via [http://www.quickdatabasediagrams.com].
 
-![Alt text](/relative/path/to/Schema Visual.png?raw=true)
+![Alt text](/Schema Visual.png?raw=true)
 
 #### Data Engineering
 
