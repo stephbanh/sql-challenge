@@ -49,6 +49,8 @@ Offered code via UCI
 * Password is in gitignore
 
 (Complete) Create a histogram to visualize the most common salary ranges for employees.
+
+
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/91814465/160502736-6b5af693-b9fc-4c13-95de-482d01de3c38.png">
 
 
